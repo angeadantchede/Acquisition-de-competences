@@ -69,3 +69,4 @@ Le contenu pédagogique (notes, roadmaps) peut être réutilisé avec attributio
 ## Contact
 
 - GitHub : [@angeadantchede](https://github.com/angeadantchede)
+- LinkedIn : [Ange Adantchede](https://www.linkedin.com/in/ange-adantchede-832273324/)
