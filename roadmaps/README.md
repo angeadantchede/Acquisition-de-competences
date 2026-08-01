@@ -13,4 +13,4 @@ Feuilles de route et planification du parcours AI/ML.
 
 1. Consulter la roadmap ML globale pour garder la vision d’ensemble.
 2. Suivre la **Partie I** chapitre par chapitre (ne passer au suivant que si la checklist est validée).
-3. Position actuelle : **Chapitre 1 — Algèbre linéaire → Vecteurs et matrices**.
+3. Position actuelle : **Chapitre 1 — Algèbre linéaire** — thème *Vecteurs et matrices* terminé ([`Vecteurs-Matrices/`](./partie-01-fondations-mathematiques/01-algebre-lineaire/Vecteurs-Matrices)).

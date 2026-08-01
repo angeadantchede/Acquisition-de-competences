@@ -20,7 +20,8 @@
 
 ### Focus actuel
 
-**Chapitre 1 — [`01-algebre-lineaire`](./01-algebre-lineaire)** (vecteurs et matrices)
+**Chapitre 1 — [`01-algebre-lineaire`](./01-algebre-lineaire)**  
+Thème **[Vecteurs et matrices](./01-algebre-lineaire/Vecteurs-Matrices)** : terminé.
 
 ---
 

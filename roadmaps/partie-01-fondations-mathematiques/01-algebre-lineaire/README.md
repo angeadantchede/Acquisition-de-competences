@@ -11,6 +11,13 @@
 
 Aucun — niveau lycée en algèbre suffit.
 
+## Progression du chapitre
+
+| Thème | Dossier | Statut |
+| --- | --- | --- |
+| Vecteurs et matrices | [`Vecteurs-Matrices/`](./Vecteurs-Matrices) | **Terminé** |
+| Projet SVD | [`Projets/`](./Projets) | À venir |
+
 ## Ressources (rappel du manuel)
 
 | Ressource | Plateforme | Statut |
@@ -24,7 +31,7 @@ Aucun — niveau lycée en algèbre suffit.
 ## Checklist de validation du chapitre
 
 - [ ] Je peux expliquer une valeur propre à un non-initié en 2 minutes
-- [ ] Je calcule produit matriciel et inverse à la main (2×2 / 3×3)
+- [x] Je calcule produit matriciel et inverse à la main (2×2 / 3×3) — *produits matriciels travaillés dans Vecteurs-Matrices*
 - [ ] Je comprends le lien PCA ↔ SVD
 - [ ] Le projet SVD est sur GitHub avec README
 - [ ] Problem Sets 1–6 du MIT 18.06 faits et corrigés
