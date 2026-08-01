@@ -8,14 +8,7 @@ Je documente ici, de façon structurée et progressive, ce que j’apprends, ce 
 
 ## Qui je suis
 
-**Ange Adantchede** — ingénieur AI/ML en formation (Epitech).
-
-| Domaine | Stack / outils |
-| --- | --- |
-| AI / ML | Python, scikit-learn, PyTorch, LLM (Ollama, Gemini, Claude, OpenAI) |
-| Backend & data | FastAPI, PostgreSQL, Docker |
-| Automatisation | n8n |
-| Full-stack | Next.js, React Native |
+**Ange Adantchede** — Futur ingénieur AI/ML en formation (Epitech).
 
 ---
 
