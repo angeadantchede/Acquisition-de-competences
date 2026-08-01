@@ -8,7 +8,7 @@ Je documente ici, de façon structurée et progressive, ce que j’apprends, ce 
 
 ## Qui je suis
 
-**Ange Adantchede** — Futur ingénieur AI/ML en formation (Epitech).
+**Ange Adantchede** — Futur ingénieur AI/ML en formation (EPITECH Bénin).
 
 ---
 
