@@ -56,7 +56,7 @@ Dernier thème validé : [Vecteurs et matrices](./roadmaps/partie-01-fondations-
 
 ## Licence
 
-Le contenu pédagogique (notes, roadmaps) peut être réutilisé avec attribution.
+Tous droits réservés. Aucune licence open source n’est accordée sur ce dépôt pour le moment.
 
 ---
 
