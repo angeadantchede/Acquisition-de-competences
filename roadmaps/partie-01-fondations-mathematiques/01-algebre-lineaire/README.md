@@ -16,6 +16,9 @@ Aucun — niveau lycée en algèbre suffit.
 | Thème | Dossier | Statut |
 | --- | --- | --- |
 | Vecteurs et matrices | [`Vecteurs-Matrices/`](./Vecteurs-Matrices) | **Terminé** |
+| Déterminant et rang | [`Determinant_Rang/`](./Determinant_Rang) | **Terminé** |
+| Valeurs propres / vecteurs propres | [`ValeursPropres_VecteursPropres/`](./ValeursPropres_VecteursPropres) | **Terminé** |
+| SVD | [`SVD/`](./SVD) | **En cours** |
 | Projet SVD | [`Projets/`](./Projets) | À venir |
 
 ## Ressources (rappel du manuel)
@@ -30,8 +33,9 @@ Aucun — niveau lycée en algèbre suffit.
 
 ## Checklist de validation du chapitre
 
-- [ ] Je peux expliquer une valeur propre à un non-initié en 2 minutes
+- [x] Je peux expliquer une valeur propre à un non-initié en 2 minutes — *travaillé dans ValeursPropres_VecteursPropres*
 - [x] Je calcule produit matriciel et inverse à la main (2×2 / 3×3) — *produits matriciels travaillés dans Vecteurs-Matrices*
+- [x] Je calcule un déterminant à la main et je vérifie avec NumPy — *Determinant_Rang*
 - [ ] Je comprends le lien PCA ↔ SVD
 - [ ] Le projet SVD est sur GitHub avec README
 - [ ] Problem Sets 1–6 du MIT 18.06 faits et corrigés

@@ -34,7 +34,8 @@ Chaque dossier contient son propre `README.md` qui liste et décrit les élémen
 ## Progression actuelle
 
 **Partie I — Fondations mathématiques → [Chapitre 1 — Algèbre linéaire](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/)**  
-Dernier thème validé : [Vecteurs et matrices](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/Vecteurs-Matrices/).
+Derniers thèmes validés : [Vecteurs et matrices](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/Vecteurs-Matrices/), [Déterminant et rang](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/Determinant_Rang/), [Valeurs propres](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/ValeursPropres_VecteursPropres/).  
+En cours : [SVD](./roadmaps/partie-01-fondations-mathematiques/01-algebre-lineaire/SVD/).
 
 ## Comment naviguer
 

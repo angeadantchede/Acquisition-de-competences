@@ -1,7 +1,7 @@
 # Partie I — Fondations mathématiques
 
 > Document 1/13 du *Manuel complet d’ingénieur ML/IA*.  
-> Source : [`source/Partie1_Fondations_Mathematiques.docx`](./source/Partie1_Fondations_Mathematiques.docx)
+> Sources : [`source/`](./source) (manuel, énoncés PDF, vidéo SVD)
 
 **Rythme conseillé :** 6 à 8 semaines · 8–10 h/semaine (en parallèle du début de la Partie II — Python).
 
@@ -20,8 +20,12 @@
 
 ### Focus actuel
 
-**Chapitre 1 — [`01-algebre-lineaire`](./01-algebre-lineaire)**  
-Thème **[Vecteurs et matrices](./01-algebre-lineaire/Vecteurs-Matrices)** : terminé.
+**Chapitre 1 — [`01-algebre-lineaire`](./01-algebre-lineaire)**
+
+- [Vecteurs et matrices](./01-algebre-lineaire/Vecteurs-Matrices) : terminé
+- [Déterminant et rang](./01-algebre-lineaire/Determinant_Rang) : terminé
+- [Valeurs propres / vecteurs propres](./01-algebre-lineaire/ValeursPropres_VecteursPropres) : terminé
+- [SVD](./01-algebre-lineaire/SVD) : en cours
 
 ---
 
